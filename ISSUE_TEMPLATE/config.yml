@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability Report
+    url: https://github.com/GitMoneyOS/.github/blob/main/SECURITY.md
+    about: Report security issues privately per our security policy.
+  - name: Public Framework Documentation
+    url: https://github.com/GitMoneyOS/gitmoney-public-framework
+    about: Read the public framework documentation and proof standards.
