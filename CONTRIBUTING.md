@@ -15,3 +15,10 @@ Thank you for contributing to the GitMoney OS framework and ecosystem.
 2. Ensure all changes follow the copy and security guidelines in SECURITY.md.
 3. Submit a Pull Request using the official pull request template.
 4. Obtain codeowner approval from @HitsuyoAkuWeb3 before merging.
+
+## Shared Community Contracts
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Governance](GOVERNANCE.md)
+- [Support](SUPPORT.md)
+- [Security](SECURITY.md)
