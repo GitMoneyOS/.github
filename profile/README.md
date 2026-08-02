@@ -6,6 +6,16 @@ GitMoney OS turns ephemeral AI output, chat logs, and unorganized local notes in
 
 ---
 
+## Start Here
+
+- [Run the Founder-Control Diagnostic](https://architect.hitsuyoaku.io)
+- [Inspect the GitMoneyOS Public Framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
+- [Inspect bounded public proof](https://github.com/GitMoneyOS/gitmoney-public-framework/tree/main/docs/proof-package)
+
+The diagnostic is the primary next step. The framework and proof package show the method and its evidence boundaries.
+
+---
+
 ## The Core Problem
 
 In founder-led businesses, technology agencies, and creator brands, critical execution stays trapped inside private chats, local folders, and founder memory.
@@ -30,15 +40,15 @@ GitMoney OS fixes these bottlenecks by establishing a governed 3-tier cybernetic
 +-----------------------------------------------------------------------------------+
 |                                                                                   |
 |  [ Private Memory ]             [ Local Workbench ]          [ Official Record ]  |
-|   Obsidian PKM Vault   <----->   AI Office Cockpit   <----->   GitHub Repositories |
-|  Raw capture & intel           C-Suite AI Agent Swarm        Governed Proof Assets|
+|   Obsidian PKM Vault   <----->   AI Office Workbench         GitHub Repositories |
+|  Raw capture & intel           Reviewable drafts             Governed Proof Assets|
 |                                                                                   |
 +-----------------------------------------------------------------------------------+
 ```
 
 1. Tier 1 - Private Memory (Obsidian Vault): Local-first private memory storing raw notes, client intelligence, and strategic ideas on disk.
 2. Tier 2 - Agent Workbench (GitMoney AI Office): Bounded local control surface running C-Suite executive AI nodes (CEO, CTO, COO, CMO, CFO) to structure assets.
-3. Tier 3 - Official Record (GitHub Repositories): Approved, evidence-backed business records published for team execution, client delivery, and open-source verification.
+3. Tier 3 - Official Record (GitHub Repositories): Approved, evidence-backed business records available for team execution, client delivery, and public inspection where approved.
 
 ---
 
@@ -56,7 +66,7 @@ GitMoney OS powers two distinct market entry lanes through a single cybernetic b
 |                  v                                          v                     |
 |     RED PILLAR x GITBUILT OFFER                  IDENTITY FORENSICS LAB (IFL)     |
 |   "Proof You Can Inspect" Packet              Paid Diagnosis & Reconstruction |
-|   Buyer-Readable BuildBoard                     System 1-5 VSM Cybernetic Stack   |
+|   Bounded public proof                          System 1-5 VSM Cybernetic Stack   |
 |                  \                                          /                     |
 |                   \                                        /                      |
 |                    v                                      v                       |
@@ -69,8 +79,8 @@ GitMoney OS powers two distinct market entry lanes through a single cybernetic b
 ### Segment 1: Red Pillar x GitBuilt ("Proof You Can Inspect")
 * Target Audience: Founders, operators, and creators at Invest Fest 2026 and beyond.
 * Problem: Creator and builder output stays hidden inside private AI chats and unorganized local folders, forcing founders to explain their value from scratch.
-* Solution: GitBuilt converts raw execution into inspectable GitHub proof packets and a public BuildBoard.
-* Core CTA: Request a Buyer-Readable Proof Diagnostic.
+* Solution: GitBuilt turns selected public work into inspectable GitHub proof cards with stated claim boundaries.
+* Core CTA: [Inspect the public proof package](https://github.com/GitMoneyOS/gitmoney-public-framework/tree/main/docs/proof-package).
 
 ### Segment 2: Identity Forensics Lab (IFL)
 * Target Audience: High-ticket B2B enterprise founders and technology agencies.
@@ -116,7 +126,7 @@ GitMoney OS powers two distinct market entry lanes through a single cybernetic b
 | Repository | Visibility | Purpose |
 | :--- | :--- | :--- |
 | GitMoneyOS/.github | Public | Organization profile, community health, and default governance rules |
-| GitMoneyOS/gitmoney-public-framework | Public | Open framework documentation, proof packets, and public standards |
+| GitMoneyOS/gitmoney-public-framework | Public | Public framework documentation, proof packets, and public standards |
 | GitMoneyOS/gitbuilt-proof-sprint | Private | Staging environment for Red Pillar x GitBuilt proof sprints |
 | GitMoneyOS/mothership-office | Private | Official-record lane for vault memory synchronization |
 | GitMoneyOS/gitmoney-os | Private | Central operating system, thesis documents, and skill library |
@@ -130,7 +140,7 @@ GitMoney OS powers two distinct market entry lanes through a single cybernetic b
 
 1. Evidence Over Theory: Dated API receipts and inspectable proof take precedence over unverified claims.
 2. Local Before Public: Draft material remains local until passing the GitMoney Asset Test (Owner, Classification, Source Evidence, Approval Path, Reuse Path, Lifecycle).
-3. Independent Framework: GitMoney OS and GitBuilt operate as independent open-source frameworks. Third-party brand references do not imply endorsement unless explicitly documented under a formal agreement.
+3. Independent Framework: GitMoney OS and GitBuilt operate as independent frameworks. Public visibility does not grant reuse rights, and third-party brand references do not imply endorsement unless explicitly documented under a formal agreement.
 
 ---
 
