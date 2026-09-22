@@ -93,18 +93,14 @@ Every agent mutation must obey the **Three Mutation Invariants**:
 
 GitMoney OS operates under the **Identity Forensics Lab (IFL)** commercial authority (`IFL-COMM-V2-2026-09-01`):
 
-1. **Founder Dependency Diagnostic ($1,500):**  
-   Measures your Founder Dependency Bottleneck Rate (FDBR). Inspects what happens when the founder steps away for 96 hours across authority, memory, logic, and verification.
-2. **AI Office Audit ($3,500):**  
-   Comprehensive forensic audit of scattered prompts, unrouted tools, and shadow workflows. Delivers a verified gap analysis and install roadmap.
-3. **Architecture Recon ($7,500):**  
-   Deep forensic evaluation of multi-system architecture, data contracts, and agent liability boundaries.
-4. **Client AI Office Setup Sprint ($20,000):**  
-   Complete 30-day production install of the 5-layer ICM folder hierarchy, canonical skill libraries, and human-in-the-loop review gates.
-5. **Forward-Deployed Infrastructure Build (FROM $50,000 Floor):**  
-   Full custom enterprise systems reconstruction, production-hardened agent governance, and revenue engine deployment.
-6. **Monthly Governor Review Retainer ($10,000/month):**  
-   Continuous executive oversight, mutation drift inspection, and autopoietic skill annealing.
+1. **Founder Dependency Diagnostic ($1,500 / $3,500 / $7,500):**  
+   Single Vector ($1,500), Full Executive ($3,500), or 1-Day Sprint ($7,500). Measures your Founder Dependency Bottleneck Rate (FDBR) and tests operational resilience under a 96-hour freeze.
+2. **Identity Forensics Audit ($20,000):**  
+   Comprehensive forensic audit across Viable System Model (VSM) Systems 1-5 and System 3* audit channels, agent liability boundaries, and court of record verification.
+3. **Sovereign Reconstruction (FROM $50,000 Floor):**  
+   Turnkey systems transformation installing the 5-layer ICM structure, custom skills, branch protection, and production software infrastructure.
+4. **Signal & Dependency Governance ($10,000 / month):**  
+   Standing monthly cybernetic governance, drift monitoring, skill updates, and cryptographic court reviews.
 
 ---
 
