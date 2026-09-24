@@ -1,111 +1,142 @@
 # GitMoney OS
 
-### The Operating System for Autonomous Business Infrastructure & The Cryptographic Court of Record
+### Open Skeleton. Private Machine. Governed AI-Assisted Business Work.
 
-**GitMoney OS** turns GitHub into a plain-English, enterprise-grade AI Office for non-technical founders, operators, and forward-deployed engineers.
+**GitMoney OS** turns GitHub into a plain-English court of record for founders, operators, and forward-deployed engineers building AI-assisted companies.
 
-We solve the **Enterprise Liability Void**: autonomous AI agents write code and mutate systems with zero legal liability, leaving companies to absorb 100% of the risk. We replace brittle, black-box agent orchestration frameworks with **Interpretable Context Methodology (ICM: arXiv:2603.16021v2)** and the **Skills-as-Architecture Law**.
+The public framework is the open-source skeleton: a reusable standard for organizing source material, agent work, decisions, approvals, and receipts.
 
-> **"When you understand that it all boils down to the 'right kinds of files in the right kinds of folders,' you basically understand how to build agentic infrastructure."**  
-> (Hitsuyo Aku, Enterprise Systems Architect)
+The private GitMoney OS, Mothership, Skills, CAC, Audit, Delivery, SaaS, proof sprint, and client implementation systems are the private machine: the advanced methods used to diagnose and reconstruct real companies.
+
+> **GitMoney OS is open source where the industry needs a standard and private where the client needs transformation.**
+>
+> The skeleton is free. The living machine is paid.
 
 ---
 
-## The Paradigm Shift: Why Code Frameworks Rot
+## The Problem
 
-Silicon Valley spent two years building complex programmatic multi-agent frameworks (LangChain, CrewAI, AutoGen). In production, these frameworks fail due to three fatal flaws:
+AI makes output faster. It does not automatically make that work owned, approved, findable, transferable, or safe to act on.
 
-1. **Context Rot:** Token windows fill with conversational noise, causing model middle-loss degradation and hallucinated logic.
-2. **Synchronization Debt:** Opaque JSON passing between agents creates brittle execution chains that crash silently.
-3. **The Black Box State Problem:** State held in ephemeral memory or vector databases cannot be audited, inspected, or reversed by human operators.
+Founder-led companies now face a new operating failure:
 
-### The ICM Solution: Folder Structure IS Agent Architecture
+- important decisions live in one person's memory;
+- prompts, SOPs, automations, contractors, and AI outputs scatter across tools;
+- agents can mutate systems faster than humans can review them;
+- work says complete without proving what changed;
+- handoffs break because context was never turned into infrastructure.
 
-Under Interpretable Context Methodology (ICM), you do not program agent coordination in Python. You structure the filesystem.
+GitMoney OS exists because output without governance becomes operational debt at machine speed.
 
-GitMoney OS enforces a strict **5-Layer Context Hierarchy**:
+---
+
+## The Open Skeleton
+
+The open-source public framework gives the industry a shared grammar for governed AI-assisted business work.
+
+Public framework:
+
+- plain-English GitOps patterns;
+- public folder architecture;
+- bounded execution templates;
+- issue, pull request, commit, and receipt patterns;
+- public proof package;
+- open standard documentation;
+- buyer inspection path.
+
+Start here:
+
+- **Open-source public framework:** [GitMoneyOS/gitmoney-public-framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
+
+Reuse rights for the public framework are governed by that repository's published license.
+
+---
+
+## The Private Machine
+
+The private system remains proprietary.
+
+Private layers include:
+
+- GitMoney OS operating spine;
+- Identity Forensics Audit system;
+- client delivery and reconstruction engine;
+- proof-to-pipeline content engine;
+- SaaS and telemetry prototype layer;
+- Mothership vault and command architecture;
+- canonical private skill store;
+- CAC and commercial intelligence machinery;
+- client-specific implementation methods.
+
+These are not open source because their job is transformation, not adoption.
+
+---
+
+## The Operating Pattern
+
+GitMoney OS uses a three-plane model:
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ LAYER 0: GLOBAL IDENTITY FILE  │ AGENTS.md, Cockpit Rules                              │
-│ LAYER 1: WORKSPACE ROUTING     │ C-Suite Seats (CEO, CMO, COO, CTO, CFO)               │
-│ LAYER 2: STAGE CONTRACT        │ Action Envelopes (01_research, 02_architecture, etc.) │
-│ LAYER 3: PERSISTENT FACTORY    │ Canonical Skills & Rules (.agents/skills/, rules/)    │
-│ LAYER 4: WORKING ARTIFACTS     │ Runtime Deliverables & Pull Request Edit Surfaces     │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+Private Memory -> Agent Workbench -> Court of Record
 ```
 
----
+- **Private Memory:** founder doctrine, source material, strategy, and raw context.
+- **Agent Workbench:** bounded AI-assisted work shaped into reviewable artifacts.
+- **Court of Record:** GitHub issues, pull requests, commits, checks, and receipts.
 
-## The Skills-as-Architecture Law
+Every serious change should be:
 
-> **Architecture is not taught through syntax lectures; it is enforced through agent skill boundaries and folder structure.**
-
-In our 90-day pilot cohort with non-technical founders:
-- Non-technical participants with zero software background built production web applications, wired live Stripe billing, and audited complex codebases.
-- Students deployed industry-standard **bcrypt password hashing** and auth boundaries without receiving a single lecture on cryptography, because the repository's Layer 3 skill directories scoped the requirement directly into the agent's context window.
-- The agent enforced the standard and taught the rationale at the point of interaction.
-
----
-
-## The Cryptographic Court of Record
-
-Git is not merely an archive for software engineers. Git is a distributed cryptographic ledger that tracks plain-text state transitions.
-
-In GitMoney OS, GitHub primitives become an enterprise agent operating system:
-
-| Git Primitive | Plain-English Business Function |
-| :--- | :--- |
-| **Folders** | **Context Scopes:** Strictly isolate what an agent can read and write. |
-| **Branches** | **Agent Sandboxes:** Isolated scratchpads where agents work without touching production. |
-| **Commits** | **Cryptographic Receipts:** Immutable, hash-verified receipts of intermediate states. |
-| **Pull Requests** | **Mandatory Edit Surfaces:** Human-in-the-loop review before changes merge into canon. |
-| **Actions** | **Deterministic Safety Gates:** Automated policy, security, and test checks. |
-
-Every agent mutation must obey the **Three Mutation Invariants**:
-1. **Atomic:** One bounded task at a time.
-2. **Inspectable:** Every change is recorded as a plain-text diff.
-3. **Reversible:** Fast one-action rollback via Git commits.
+1. **Atomic:** one bounded job;
+2. **Inspectable:** human-readable diff and evidence;
+3. **Reversible:** recoverable through Git history.
 
 ---
 
-## The Three-Plane Operating System
+## Why Folder Structure Matters
 
-```text
-+-----------------------------------------------------------------------------------+
-|                        GITMONEY OS 3-PLANE ARCHITECTURE                           |
-+-----------------------------------------------------------------------------------+
-|                                                                                   |
-|  [ Private Memory ]             [ Agent Workbench ]          [ Court of Record ]  |
-|   Obsidian PKM Vault   <----->   AI Office Cockpit   <----->   GitHub Repositories |
-|  Raw capture & doctrine        Autonomous Agent Platforms    Governed Proof Assets|
-|                                                                                   |
-+-----------------------------------------------------------------------------------+
-```
+GitMoney OS applies Interpretable Context Methodology and the Skills-as-Architecture Law to business execution.
 
-1. **Plane 1: Creative Sandbox (Private Memory):** Obsidian vault on local disk. Raw thinking, customer notes, and founder doctrine. Private by default.
-2. **Plane 2: Agent Workbench (Intermediate Scratchpad):** Codex, Claude Code, Antigravity. Autonomous agents draft code, SOPs, and proposals with evidence.
-3. **Plane 3: Cryptographic Court of Record (Permanent Assets):** GitHub repositories. Governed business assets passing the Five-Part Asset Test.
+The point is not to make every founder a developer.
+
+The point is to stop important business knowledge from living only in chats, contractors, private docs, AI transcripts, and memory.
+
+A folder can become a context boundary.
+A branch can become an agent sandbox.
+A pull request can become an approval desk.
+A commit can become a receipt.
+
+Yes, apparently civilization needed GitHub to teach executives what a receipt is. We work with the species we have.
 
 ---
 
-## Commercial Engagement & Offer Ladder
+## Commercial Engagement
 
-GitMoney OS operates under the **Identity Forensics Lab (IFL)** commercial authority (`IFL-COMM-V2-2026-09-01`):
+The public framework teaches the standard.
 
-1. **Founder Dependency Diagnostic ($1,500 / $3,500 / $7,500):**  
-   Single Vector ($1,500), Full Executive ($3,500), or 1-Day Sprint ($7,500). Measures your Founder Dependency Bottleneck Rate (FDBR) and tests operational resilience under a 96-hour freeze.
-2. **Identity Forensics Audit ($20,000):**  
-   Comprehensive forensic audit across Viable System Model (VSM) Systems 1-5 and System 3* audit channels, agent liability boundaries, and court of record verification.
-3. **Sovereign Reconstruction (FROM $50,000 Floor):**  
-   Turnkey systems transformation installing the 5-layer ICM structure, custom skills, branch protection, and production software infrastructure.
-4. **Signal & Dependency Governance ($10,000 / month):**  
-   Standing monthly cybernetic governance, drift monitoring, skill updates, and cryptographic court reviews.
+Paid work applies the advanced private architecture to a specific company.
+
+Current commercial ladder:
+
+1. **Identity Forensics Audit ($20,000):** primary paid entry for qualified buyers.
+2. **Architecture Sprint ($7,500):** bounded inquiry for one immediate architecture question.
+3. **Sovereign Reconstruction (from $50,000):** private operating architecture installed after evidence supports the build.
+4. **Signal & Dependency Governance ($10,000/month):** ongoing review and adaptation where scoped.
+
+Apply here:
+
+- **Identity Forensics Audit:** [architect.hitsuyoaku.io/sovereign-brand-os-audit](https://architect.hitsuyoaku.io/sovereign-brand-os-audit)
+- **Architecture Sprint inquiry:** [architect.hitsuyoaku.io/contact?tier=v2-diagnose-architecture-sprint](https://architect.hitsuyoaku.io/contact?tier=v2-diagnose-architecture-sprint)
 
 ---
 
-## Public Repositories & Resources
+## Boundary
 
-- **Public Starter Kit:** [GitMoneyOS/gitmoney-public-framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
-- **Executive Authority:** [@HitsuyoAkuWeb3](https://github.com/HitsuyoAkuWeb3)
-- **Commercial Diagnostic:** [Apply for Founder Dependency Diagnostic](https://architect.hitsuyoaku.io/contact?tier=v2-diagnose)
+The public framework is open source.
+
+The private machine is not.
+
+Do not treat the public repository as permission to copy private methods, client delivery systems, CAC logic, private skills, audit templates, implementation playbooks, proposal/SOW machinery, Mothership doctrine, or client-specific operating systems.
+
+The public standard exists to raise the floor.
+
+The private work exists to transform the business.
